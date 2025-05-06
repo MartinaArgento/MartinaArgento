@@ -31,12 +31,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
-
-### 📊 GitHub Stats
-![Martina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinaArgento&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinaArgento&layout=compact&theme=radical)
-
----
 ### 📂 Main Projects
 
 * 🧮 **Neonatal Weight Prediction** – statistical model developed in R
@@ -52,3 +46,11 @@
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuo-linkedin/)
 
+
+
+
+<!--
+### 📊 GitHub Stats
+![Martina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinaArgento&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinaArgento&layout=compact&theme=radical)
+-->
