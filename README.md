@@ -1,22 +1,22 @@
 ### Hi there, I'm Martina ✨
 
-🎓 Neo-laureata in Ingegneria Gestionale  
-📊 Junior Data Analyst & Data Science Student  
-🚀 Attualmente sto frequentando un master in Data Science con focus su analisi statistica, machine learning e deep learning  
-📍 Basata in Italia
+🎓 Recent graduate in Management Engineering
+📊 Data Science Student
+🚀 Currently attending a Data Science master's program focused on statistical analysis, machine learning, and deep learning
+📍 Based in Turin, Italy
 
 ---
 
-### 🧠 Cosa sto imparando
+### 🧠 What I'm learning
 
-- 📈 Statistica descrittiva, inferenziale e avanzata
-- 🤖 Machine Learning & Deep Learning (CNN, RNN, Transfer Learning)
-- 🐍 Programmazione in Python (pandas, NumPy, matplotlib, seaborn)
-- 📊 Analisi dei dati con R e visualizzazione con ggplot2
-- 💾 SQL per la gestione e l'interrogazione dei dati
-- 🧪 Sperimentazione con AutoML (FLAML)
-- 📂 Data preprocessing, feature selection, bilanciamento dataset
-- 🛠 Sviluppo di progetti end-to-end: dalla raccolta dati alla comunicazione dei risultati
+* 📈 Descriptive, inferential, and advanced statistics
+* 🤖 Machine Learning & Deep Learning (CNN, RNN, Transfer Learning)
+* 🐍 Programming in Python (pandas, NumPy, matplotlib, seaborn)
+* 📊 Data analysis with R and visualization with ggplot2
+* 💾 SQL for data management and querying
+* 🧪 AutoML experimentation (FLAML)
+* 📂 Data preprocessing, feature selection, dataset balancing
+* 🛠 Developing end-to-end projects: from data collection to insights communication
 
 ---
 
@@ -38,16 +38,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=radical)
 
 ---
+### 📂 Main Projects
 
-### 📂 Progetti principali
-- 🧮 **Previsione peso neonatale** – modello statistico in R
-- 🏠 **Analisi mercato immobiliare Texas** – analisi descrittiva e serie storiche
-- 🔍 **Cross-selling assicurativo** – classificazione e segmentazione clienti
-- 💳 **Affidabilità creditizia** – modelli predittivi e bilanciamento dati
-- 🤖 **Face Detection da zero** – classificatore immagini con scikit-learn
-- 📦 **Software gestionale** – magazzino, vendite e profitti in Python
-- 🗃 **Dashboard e query SQL** – analisi di database con SQLTools in VS Code, query avanzate e dashboard interattiva
-
+* 🧮 **Neonatal Weight Prediction** – statistical model developed in R
+* 🏠 **Texas Real Estate Market Analysis** – descriptive statistics and time series analysis
+* 🔍 **Insurance Cross-Selling** – customer classification and segmentation
+* 💳 **Creditworthiness Prediction** – predictive modeling and data balancing
+* 🤖 **Face Detection from Scratch** – image classifier built with scikit-learn
+* 📦 **Inventory Management Software** – stock, sales, and profit tracking in Python
+* 🗃 **SQL Dashboards and Queries** – database analysis using MySQL
 
 ---
 
