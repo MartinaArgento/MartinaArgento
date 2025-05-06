@@ -1,9 +1,9 @@
 ### Hi there, I'm Martina ✨
 
-🎓 Recent graduate in Management Engineering </br>
-📊 Data Science Student</br>
-🚀 Currently attending a Data Science master's program focused on statistical analysis, machine learning, and deep learning </br>
-📍 Based in Turin, Italy </br>
+* 🎓 Recent graduate in Management Engineering 
+* 📊 Data Science Student
+* 🚀 Currently attending a Data Science master's program focused on statistical analysis, machine learning, and deep learning 
+* 📍 Based in Turin, Italy 
 
 ---
 
