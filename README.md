@@ -10,11 +10,11 @@
 ### 🧠 What I'm learning
 
 * 📈 Descriptive, inferential, and advanced statistics
-* 🤖 Machine Learning & Deep Learning (CNN, RNN, Transfer Learning)
 * 🐍 Programming in Python (pandas, NumPy, matplotlib, seaborn)
-* 📊 Data analysis with R and visualization with ggplot2
+* 🤖 Machine Learning & Deep Learning (CNN, RNN, Transfer Learning)
 * 💾 SQL for data management and querying
 * 🧪 AutoML experimentation (FLAML)
+* 📊 Data analysis with R and visualization with ggplot2
 * 📂 Data preprocessing, feature selection, dataset balancing
 * 🛠 Developing end-to-end projects: from data collection to insights communication
 
