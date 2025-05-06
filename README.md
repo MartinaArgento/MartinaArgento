@@ -32,14 +32,13 @@
 
 ---
 ### 📂 Main Projects
-
-* 🧮 **Neonatal Weight Prediction** – statistical model developed in R
-* 🏠 **Texas Real Estate Market Analysis** – descriptive statistics and time series analysis
-* 🔍 **Insurance Cross-Selling** – customer classification and segmentation
-* 💳 **Creditworthiness Prediction** – predictive modeling and data balancing
-* 🤖 **Face Detection from Scratch** – image classifier built with scikit-learn
-* 📦 **Inventory Management Software** – stock, sales, and profit tracking in Python
-* 🗃 **SQL Dashboards and Queries** – database analysis using MySQL
+- 🧮 **Neonatal Weight Prediction** – statistical model developed in R  
+- 🏠 **Texas Real Estate Market Analysis** – descriptive statistics and time series analysis  
+- 🔍 **Insurance Cross-Selling** – customer classification and segmentation  
+- 💳 **Creditworthiness Prediction** – predictive modeling and data balancing  
+- 🤖 **Face Detection from Scratch** – image classifier built with scikit-learn  
+- 📦 **Inventory Management Software** – stock, sales, and profit tracking in Python  
+- 🗃 **SQL Feature Engineering** – SQL queries to compute indicators for ML model development
 
 ---
 
