@@ -32,13 +32,13 @@
 
 ---
 ### 📂 Main Projects
-- 🧮 [**Neonatal Weight Prediction**](https://github.com/martinaargento/predict-baby-weight) – statistical model developed in R  
-- 🏠 [**Texas Real Estate Market Analysis**](https://github.com/martinaargento/real-estate-texas-analysis) – descriptive statistics and time series analysis  
-- 🔍 [**Insurance Cross-Selling**](https://github.com/martinaargento/insurance-cross-selling) – customer classification and segmentation  
-- 💳 [**Creditworthiness Prediction**](https://github.com/martinaargento/creditworthiness-prediction) – predictive modeling and data balancing  
-- 🤖 [**Face Detection from Scratch**](https://github.com/martinaargento/face-detection) – image classifier built with scikit-learn  
-- 📦 [**Inventory Management Software**](https://github.com/martinaargento/vegan-store-manager) – stock, sales, and profit tracking in Python  
-- 🗃 [**SQL Feature Engineering**](https://github.com/martinaargento/sql-feature-engineerin) – SQL queries to compute indicators for ML model development
+- 🧮 [**Neonatal Weight Prediction**](https://github.com/MartinaArgento/predict-baby-weight) – statistical model developed in R  
+- 🏠 [**Texas Real Estate Market Analysis**](https://github.com/MartinaArgento/real-estate-texas-analysis) – descriptive statistics and time series analysis  
+- 🔍 [**Insurance Cross-Selling**](https://github.com/MartinaArgento/insurance-cross-selling) – customer classification and segmentation  
+- 💳 [**Creditworthiness Prediction**](https://github.com/MartinaArgento/creditworthiness-prediction) – predictive modeling and data balancing  
+- 🤖 [**Face Detection from Scratch**](https://github.com/MartinaArgento/face-detection) – image classifier built with scikit-learn  
+- 📦 [**Inventory Management Software**](https://github.com/MartinaArgento/vegan-store-manager) – stock, sales, and profit tracking in Python  
+- 🗃 [**SQL Feature Engineering**](https://github.com/MartinaArgento/sql-feature-engineerin) – SQL queries to compute indicators for ML model development
 
 
 ---
