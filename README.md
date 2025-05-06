@@ -33,8 +33,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Martina's GitHub stats](https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=radical)
+![Martina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinaArgento&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinaArgento&layout=compact&theme=radical)
 
 ---
 ### 📂 Main Projects
